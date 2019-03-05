@@ -2,9 +2,6 @@
 body {
   background-color: black;
   font-family: "courier new",courier,monospace;
-
-
-
 }
 h1 {
   color: white;
@@ -29,4 +26,8 @@ h2 {
 p {
   color: white;
   text-align: center;
+}
+.instructions {
+  text-align: center;
+  font-size: 75%;
 }
