@@ -1,3 +1,32 @@
+
 body {
-  background-color: #33ffcc;
+  background-color: black;
+  font-family: "courier new",courier,monospace;
+
+
+
+}
+h1 {
+  color: white;
+  font-size: 600%;
+  text-align: center;
+}
+h2 {
+  color: white;
+  font-size: 250%;
+  text-align: center;
+}
+.mortal-combat {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+.insert-coin {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  color: white;
+  text-align: center;
 }
